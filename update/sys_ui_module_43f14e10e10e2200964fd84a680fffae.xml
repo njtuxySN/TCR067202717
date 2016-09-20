@@ -4,28 +4,28 @@
         <active>true</active>
         <application display_value="test_001">db7c799ce1ca2200964fd84a680fff2a</application>
         <filter/>
-        <name>master_table_ies</name>
+        <name>branch_only_tables</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
         <roles>x_test_001.user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-09-19 23:44:35</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2016-09-20 00:03:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>3dadbd9ce1ca2200964fd84a680fff83</sys_id>
+        <sys_id>43f14e10e10e2200964fd84a680fffae</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>master_table_ies</sys_name>
+        <sys_name>branch_only_tables</sys_name>
         <sys_package display_value="test_001" source="x_test_001">267cb59ce1ca2200964fd84a680fff81</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test_001">267cb59ce1ca2200964fd84a680fff81</sys_scope>
-        <sys_update_name>sys_ui_module_3dadbd9ce1ca2200964fd84a680fff83</sys_update_name>
+        <sys_update_name>sys_ui_module_43f14e10e10e2200964fd84a680fffae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-09-19 23:44:35</sys_updated_on>
-        <table>x_test_001_master_table_ie</table>
+        <sys_updated_on>2016-09-20 00:03:31</sys_updated_on>
+        <table>x_test_001_branch_only_table</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>

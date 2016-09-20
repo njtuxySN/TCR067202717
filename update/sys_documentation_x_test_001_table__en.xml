@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-09-19 23:39:29</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>837c799ce1ca2200964fd84a680fff0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>test_001 Table</sys_name>
